@@ -1,0 +1,3 @@
+﻿  kursach2.cpp
+C:\Users\ispit\OneDrive\Рабочий стол\Kursach\diary\kursach2\kursach2.cpp(138,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  kursach2.vcxproj -> C:\Users\ispit\OneDrive\Рабочий стол\Kursach\diary\x64\Debug\kursach2.exe
